@@ -1,0 +1,16 @@
+[["京东"]]
+pt_pin = ""
+pt_key = ""
+_user = ""
+_tongzhi_method = ""
+_tongzhi_param = ""
+_status = 0
+[["慢慢买"]]
+cookie = ""
+user-agent = ""
+login_body = ""
+checkin_body = ""
+_user = ""
+_tongzhi_method = ""
+_tongzhi_param = ""
+_status = 0
