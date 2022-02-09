@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 cron: 22 11 * * *
+new Env('慢慢买');
 """
 
 import aiohttp
